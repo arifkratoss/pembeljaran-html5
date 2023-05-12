@@ -1,0 +1,39 @@
+Pembelajaran html5
+sejarah html5
+1.html(1)
+PERTAMA KALI DIBUAT OLEH TIM BERNERS-LEE DI CERN ,PADA TAHUN 1990
+-hanya ada 18 tag/elemen
+-Terinpirasi dari sgml (standart Generalized markup languange)
+-Standart penulisan dokumen di CERN
+-tahu 1993 di usulkan IETF( internet engineering task force)
+2.HTML 2,0 DI BUAT PADA TAHUN 1994
+-Di buat oleh html working group, sebagai bagian dari IETF
+-Menambahkan tabel ,image ,map,upload file
+HTML 3,0 DI BUAT PADA JANUARI 1997
+-Di kembangkan dan distandarisasi oleh w3c
+-organisasi yang di pimpin oleh tim berners-LEE
+-menghilangkan tag untuk tujuan formula matematika,blink dan marquee
+3.HTML 4,0 DI BUAT PADA DESEMBER 1997
+-Menawrkan 3 variansi strict,transitional,dan frameset
+  "Strict ,melarangkan tag-tag yang sudah usang"
+  "Transitional ,memperbolehkan tag-tag yang sudah usang "
+  "frameset,hanya memperbolehkan elemen bertipe frame"
+-Banyak menghilangkan elemen style ,agar di ganti dengan pengguna css
+4.XHTML MULAI DIBUAT PADA TAHUN 199
+-Versi xml dan html
+-Pengembangan html mulai di tinggalkan oleh w3c,karena fokus di XHTML
+5.HTML5 MULAI DI USULKAN PADA TAHUN 2004
+-Mozila &opera mengusulkan pengembangan kembali html
+-Di tolak karena w3c memilih untuk mengenbangkan XHTML
+-Apple,mozila,&opera memutuskan untuk membuat WHATWG ,yang fokus ke
+ Pengembangan HTML agar kompatibel juga untuk versi-versi sebelumya
+ 6.PADA TAHUN 2006 ,W3C KEMBALI TERTARIK UNTUK MENGEMBANGKAN HTML5
+ -WHATWG mengijinkan agar spefikasi html5nya di publikasikan dengan lisensi dari w3c
+ -selama bertahun-tahun berkerja sama untuk mengembangkan HTML5
+ 7.PADA TAHUN 2011,KEMBALI TERJADI KONFLIK
+ -W3C ingin 'menyelesaikan' versi HTML5
+ -WHATWG ingin membuat 'living standart' untuk HTML
+ 8.PADA TAHUN 2019 ,W3C & WHATWG MENANDATANGANI PERJANJIAN KERJASA
+ -WHATWG mengembangkan 'living standart' html,lewat ,dokumen berikut
+ https://html.spec.WHATWG.org/
+ -W3C memfalitasi
